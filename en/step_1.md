@@ -1,59 +1,23 @@
-## Introduction
+## Add sound
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Select the sprite that you want to have the new sound and select the **Sounds** tab. Each sprite starts with a default sound.
 
-### What you will make
+![Sound tab open in Scratch editor](images/sound-tab.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Scratch has a list of sounds that you can add to your sprites. Click the Choose a Sound button to see all the sounds.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![Choose a sound button highlighted](images/choose-a-sound-button.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Hold your mouse cursor over the sound play symbols to hear that sound.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+![play sound preview icons](images/sound-preview.png)
 
-+ A computer or tablet capable of running Scratch 3
+Click on any sound to add it to your sprite. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you just added.
 
-### Software
+![newly inserted sound in Sound tab](images/new-sound-added.png)
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+If you switch to the **Code** tab and look at the Sound Blocks menu, you will be able to select the new sound.
 
-### Downloads
+![Sound blocks menu with new sound shown in blocks](images/new-sound-block.png)
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+**Tip:** You can also add sounds to the Stage.
