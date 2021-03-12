@@ -1,5 +1,3 @@
-## Add sound
-
 Select the sprite that you want to have the new sound and select the **Sounds** tab. Each sprite starts with a default sound.
 
 ![Sound tab open in Scratch editor](images/sound-tab.png)
