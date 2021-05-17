@@ -16,6 +16,6 @@ Click on any sound to add it to your sprite. You will be taken straight back to 
 
 If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
 
-![The 'Sound' blocks menu with the new sound shown within blocks.](images/new-sound-block.png)
+![The 'Sound' blocks menu, with the new sound shown within blocks.](images/new-sound-block.png)
 
 **Tip:** You can also add sounds to the **Stage**.
