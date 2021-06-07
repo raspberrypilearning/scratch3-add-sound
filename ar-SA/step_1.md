@@ -1,21 +1,21 @@
-Select the sprite that you want to have the new sound, then select the **Sounds** tab. Each sprite starts with a default sound.
+حدد الكائن الذي تريد الحصول على الصوت الجديد، ثم حدد علامة التبويب **أصوات**. يبدأ كل كائن بصوت افتراضي.
 
-![The Sounds tab open in the Scratch editor.](images/sound-tab.png)
+![يتم فتح علامة التبويب الأصوات في محرر سكراتش.](images/sound-tab.png)
 
-Scratch has a library of sounds that you can add to your sprites. Click the **Choose a Sound** button to see all the sounds.
+تحتوي منصة سكراتش على مكتبة من الأصوات التي يمكنك إضافتها إلى الكائنات المتحركة الخاصة بك. انقر فوق **اختيار الصوت** لرؤية جميع الأصوات.
 
-![The 'Choose a Sound' button highlighted.](images/choose-a-sound-button.png)
+![تم تمييز زر "اختيار الصوت".](images/choose-a-sound-button.png)
 
-To play a sound, hold your mouse cursor (or finger on a tablet) over the **Play** icon.
+لتشغيل صوت ، ضع مؤشر الماوس (أو إصبعك على الكمبيوتر اللوحي) فوق رمز **تشغيل**.
 
-!['Play sound preview' icons.](images/sound-preview.png)
+![أيقونات "تشغيل معاينة الصوت".](images/sound-preview.png)
 
-Click on any sound to add it to your sprite. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you just added.
+انقر فوق أي صوت لإضافته إلى كائنك. ستتم إعادتك مباشرة إلى **الأصوات** وستتمكن من رؤية الصوت الذي أضفته للتو.
 
-![A newly inserted sound in the Sounds tab.](images/new-sound-added.png)
+![صوت تم إدراجه حديثًا في علامة التبويب الأصوات.](images/new-sound-added.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound.
+إذا قمت بالتبديل إلى **التعليمة البرمجية** التبويب ونظرة على `صوت`{: class= "block3sound"} القائمة التعليمات البرمجية، سوف تكون قادرا على تحديد الصوت الجديد.
 
-![The 'Sound' blocks menu with the new sound shown within blocks.](images/new-sound-block.png)
+![قائمة كتل "الصوت" مع الصوت الجديد المعروض داخل التعليمات البرمجية.](images/new-sound-block.png)
 
-**Tip:** You can also add sounds to the **Stage**.
+**نصيحة:** يمكنك أيضًا إضافة أصوات إلى **المسرح**.
