@@ -2,7 +2,7 @@ Select the sprite that you want to have the new sound, then select the **Sounds*
 
 ![The Sounds tab open in the Scratch editor.](images/sound-tab.png)
 
-Scratch has a library of sounds that you can add to your sprites. Click on the **Choose a Sound** icon to see all the sounds:
+Scratch has a library of sounds that you can add to your sprites. Click on the **Choose a Sound** icon to see all the sounds in the Sound Library:
 
 ![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
 
@@ -16,6 +16,6 @@ Click on any sound to add it to your sprite. You will be taken straight back to 
 
 If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
 
-![The 'Sound' blocks menu, with the new sound shown within blocks.](images/new-sound-block.png)
+![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
 
 **Tip:** You can also add sounds to the **Stage**.
