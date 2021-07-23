@@ -1,21 +1,21 @@
-Selecteer de sprite waarvoor je een nieuw geluid wilt hebben en selecteer vervolgens het tabblad **Geluiden**. Elke sprite begint met een standaardgeluid.
+Selecteer de sprite waarvoor je een nieuw geluid wilt hebben en selecteer vervolgens het tabblad **Geluiden**. Each sprite starts with a default sound:
 
 ![Het tabblad Geluiden geopend in de Scratch-editor.](images/sound-tab.png)
 
-Scratch heeft een bibliotheek met geluiden die je aan je sprites kunt toevoegen. Klik op de **Kies een geluid** knop om alle geluiden te zien.
+Scratch heeft een bibliotheek met geluiden die je aan je sprites kunt toevoegen. Click on the **Choose a Sound** icon to open the Sound Library:
 
-![De knop 'Kies een geluid' is gemarkeerd.](images/choose-a-sound-button.png)
+![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
 
-Om een geluid af te spelen, houdt je de muiscursor (of vinger op een tablet) boven het pictogram **Afspelen**.
+To play a sound, hold your mouse cursor (or your finger, if you are using a tablet) over the **Play** icon:
 
-!['Speel geluid preview'-pictogrammen.](images/sound-preview.png)
+!['Play' icons.](images/sound-preview.png)
 
-Klik op een geluid om het aan je sprite toe te voegen. Je komt meteen terug in het **Geluiden** tabblad en ziet het geluid dat je zojuist hebt toegevoegd.
+Klik op een geluid om het aan je sprite toe te voegen. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
 
 ![Een nieuw ingevoegd geluid op het tabblad Geluiden.](images/new-sound-added.png)
 
-Als je naar het **Code** tabblad gaat en kijkt naar de `Geluid`{:class="block3sound"} blokken, kun je je nieuwe geluid gebruiken.
+If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
 
-![Het menu 'Geluid' blokken met het nieuwe geluid weergegeven in blokken.](images/new-sound-block.png)
+![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
 
 **Tip:** Je kunt ook geluiden toevoegen aan het **Speelveld**.
