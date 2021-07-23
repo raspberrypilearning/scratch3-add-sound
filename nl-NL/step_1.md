@@ -1,4 +1,4 @@
-Selecteer de sprite waarvoor je een nieuw geluid wilt hebben en selecteer vervolgens het tabblad **Geluiden**. Each sprite starts with a default sound:
+Selecteer de sprite waarvoor je een nieuw geluid wilt hebben en selecteer vervolgens het tabblad **Geluiden**. Elke sprite begint met een standaardgeluid:
 
 ![Het tabblad Geluiden geopend in de Scratch-editor.](images/sound-tab.png)
 
@@ -6,15 +6,15 @@ Scratch heeft een bibliotheek met geluiden die je aan je sprites kunt toevoegen.
 
 ![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
 
-To play a sound, hold your mouse cursor (or your finger, if you are using a tablet) over the **Play** icon:
+Om een geluid af te spelen, houdt je de muiscursor (of vinger op een tablet) boven het pictogram **Afspelen**.
 
 !['Play' icons.](images/sound-preview.png)
 
-Klik op een geluid om het aan je sprite toe te voegen. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+Klik op een geluid om het aan je sprite toe te voegen. Je komt meteen terug in het **Geluiden** tabblad en ziet het geluid dat je zojuist hebt toegevoegd.
 
 ![Een nieuw ingevoegd geluid op het tabblad Geluiden.](images/new-sound-added.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+Als je naar het **Code** tabblad gaat en kijkt naar de `Geluid`{:class="block3sound"} blokken, kun je je nieuwe geluid gebruiken:
 
 ![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
 
