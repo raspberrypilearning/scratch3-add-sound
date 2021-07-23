@@ -1,21 +1,21 @@
-حدد الكائن الذي تريد الحصول على الصوت الجديد، ثم حدد علامة التبويب **أصوات**. يبدأ كل كائن بصوت افتراضي.
+حدد الكائن الذي تريد الحصول على الصوت الجديد، ثم حدد علامة التبويب **أصوات**. Each sprite starts with a default sound:
 
 ![يتم فتح علامة التبويب الأصوات في محرر سكراتش.](images/sound-tab.png)
 
-تحتوي منصة سكراتش على مكتبة من الأصوات التي يمكنك إضافتها إلى الكائنات المتحركة الخاصة بك. انقر فوق **اختيار الصوت** لرؤية جميع الأصوات.
+تحتوي منصة سكراتش على مكتبة من الأصوات التي يمكنك إضافتها إلى الكائنات المتحركة الخاصة بك. Click on the **Choose a Sound** icon to open the Sound Library:
 
-![تم تمييز زر "اختيار الصوت".](images/choose-a-sound-button.png)
+![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
 
-لتشغيل صوت ، ضع مؤشر الماوس (أو إصبعك على الكمبيوتر اللوحي) فوق رمز **تشغيل**.
+To play a sound, hold your mouse cursor (or your finger, if you are using a tablet) over the **Play** icon:
 
-![أيقونات "تشغيل معاينة الصوت".](images/sound-preview.png)
+!['Play' icons.](images/sound-preview.png)
 
-انقر فوق أي صوت لإضافته إلى كائنك. ستتم إعادتك مباشرة إلى **الأصوات** وستتمكن من رؤية الصوت الذي أضفته للتو.
+انقر فوق أي صوت لإضافته إلى كائنك. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
 
 ![صوت تم إدراجه حديثًا في علامة التبويب الأصوات.](images/new-sound-added.png)
 
-إذا قمت بالتبديل إلى **التعليمة البرمجية** التبويب ونظرة على `صوت`{: class= "block3sound"} القائمة التعليمات البرمجية، سوف تكون قادرا على تحديد الصوت الجديد.
+If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
 
-![قائمة كتل "الصوت" مع الصوت الجديد المعروض داخل التعليمات البرمجية.](images/new-sound-block.png)
+![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
 
 **نصيحة:** يمكنك أيضًا إضافة أصوات إلى **المسرح**.
