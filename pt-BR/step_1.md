@@ -1,4 +1,4 @@
-Selecione o ator ao qual deseja adicionar o novo som e selecione a aba **Sons**. Each sprite starts with a default sound:
+Selecione o ator ao qual deseja adicionar o novo som e selecione a aba **Sons**. Cada ator começa com um som padrão:
 
 ![A aba de Sons aberta no editor Scratch.](images/sound-tab.png)
 
@@ -14,7 +14,7 @@ Clique em qualquer som para adicioná-lo ao seu ator. You will be taken straight
 
 ![Um som recém-inserido na aba de Sons.](images/new-sound-added.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+Se você alterar para a aba **Código** e olhar o menu de blocos `Som`{:class="block3sound"}, poderá selecionar o novo som:
 
 ![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
 
