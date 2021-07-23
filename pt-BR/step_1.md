@@ -1,21 +1,21 @@
-Select the sprite that you want to have the new sound, then select the **Sounds** tab. Each sprite starts with a default sound.
+Selecione o ator ao qual deseja adicionar o novo som e selecione a aba **Sons**. Each sprite starts with a default sound:
 
-![The Sounds tab open in the Scratch editor.](images/sound-tab.png)
+![A aba de Sons aberta no editor Scratch.](images/sound-tab.png)
 
-Scratch has a library of sounds that you can add to your sprites. Click the **Choose a Sound** button to see all the sounds.
+O Scratch tem uma biblioteca de sons que você pode adicionar aos seus atores. Click on the **Choose a Sound** icon to open the Sound Library:
 
-![The 'Choose a Sound' button highlighted.](images/choose-a-sound-button.png)
+![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
 
-To play a sound, hold your mouse cursor (or finger on a tablet) over the **Play** icon.
+To play a sound, hold your mouse cursor (or your finger, if you are using a tablet) over the **Play** icon:
 
-!['Play sound preview' icons.](images/sound-preview.png)
+!['Play' icons.](images/sound-preview.png)
 
-Click on any sound to add it to your sprite. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you just added.
+Clique em qualquer som para adicioná-lo ao seu ator. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
 
-![A newly inserted sound in the Sounds tab.](images/new-sound-added.png)
+![Um som recém-inserido na aba de Sons.](images/new-sound-added.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound.
+If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
 
-![The 'Sound' blocks menu with the new sound shown within blocks.](images/new-sound-block.png)
+![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
 
-**Tip:** You can also add sounds to the **Stage**.
+**Dica:** Você também pode adicionar sons ao **Palco**.
