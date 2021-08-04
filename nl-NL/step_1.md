@@ -2,9 +2,9 @@ Selecteer de sprite waarvoor je een nieuw geluid wilt hebben en selecteer vervol
 
 ![Het tabblad Geluiden geopend in de Scratch-editor.](images/sound-tab.png)
 
-Scratch heeft een bibliotheek met geluiden die je aan je sprites kunt toevoegen. Click on the **Choose a Sound** icon to open the Sound Library:
+Scratch heeft een bibliotheek met geluiden die je aan je sprites kunt toevoegen. Klik op de **Kies een geluid** knop om alle geluiden te zien.
 
-![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
+![De knop 'Kies een geluid' is gemarkeerd.](images/choose-a-sound-button.png)
 
 Om een geluid af te spelen, houdt je de muiscursor (of vinger op een tablet) boven het pictogram **Afspelen**.
 
