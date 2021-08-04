@@ -8,7 +8,7 @@ Scratch heeft een bibliotheek met geluiden die je aan je sprites kunt toevoegen.
 
 Om een geluid af te spelen, houdt je de muiscursor (of vinger op een tablet) boven het pictogram **Afspelen**.
 
-!['Play' icons.](images/sound-preview.png)
+!['Speel geluid' pictogrammen.](images/sound-preview.png)
 
 Klik op een geluid om het aan je sprite toe te voegen. Je komt meteen terug in het **Geluiden** tabblad en ziet het geluid dat je zojuist hebt toegevoegd.
 
@@ -16,6 +16,6 @@ Klik op een geluid om het aan je sprite toe te voegen. Je komt meteen terug in h
 
 Als je naar het **Code** tabblad gaat en kijkt naar de `Geluid`{:class="block3sound"} blokken, kun je je nieuwe geluid gebruiken:
 
-![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
+![Het 'Geluid' blokkenmenu met het nieuwe geluid weergegeven in blokken.](images/new-sound-block.png)
 
 **Tip:** Je kunt ook geluiden toevoegen aan het **Speelveld**.
