@@ -2,9 +2,9 @@ Sélectionne le sprite dont tu souhaites avoir le nouveau son, puis sélectionne
 
 ![L'onglet Sons s'ouvre dans l'éditeur Scratch.](images/sound-tab.png)
 
-Scratch a une bibliothèque de sons que tu peux ajouter à tes sprites. Click on the **Choose a Sound** icon to open the Sound Library:
+Scratch a une bibliothèque de sons que tu peux ajouter à tes sprites. Clique sur l'onglet **Choisir un son** pour ouvrir la bibliothèque de sons :
 
-![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
+![Le bouton « Choisir un son » en surbrillance.](images/choose-a-sound-button.png)
 
 Pour lire un son, maintiens le curseur de la souris (ou le doigt sur une tablette) sur l'icône **Jouer**.
 
@@ -16,6 +16,6 @@ Clique sur n'importe quel son pour l'ajouter à ton sprite. Tu seras redirigé d
 
 Si tu passes à l'onglet **Code** et regarde les blocs `Son`{:class="block3sound"}, tu pourras sélectionner le nouveau son:
 
-![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
+![Le menu des blocs « Son » avec le nouveau son affiché dans les blocs.](images/new-sound-block.png)
 
 **Astuce :** tu peux également ajouter des sons à la **Scène**.
