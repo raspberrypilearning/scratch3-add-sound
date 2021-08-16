@@ -1,21 +1,21 @@
-Select the sprite that you want to have the new sound, then select the **Sounds** tab. Each sprite starts with a default sound:
+Επίλεξε το αντικείμενο που θέλεις να έχεις τον νέο ηχογραφημένο ήχο και, στη συνέχεια, επίλεξε την καρτέλα **Ήχοι**. Κάθε αντικείμενο ξεκινά με έναν προεπιλεγμένο ήχο:
 
-![The Sounds tab open in the Scratch editor.](images/sound-tab.png)
+![Η καρτέλα Ήχοι ανοίγει στον επεξεργαστή Scratch.](images/sound-tab.png)
 
-Scratch has a library of sounds that you can add to your sprites. Click on the **Choose a Sound** icon to open the Sound Library:
+Το Scratch διαθέτει μια βιβλιοθήκη ήχων που μπορείς να προσθέσεις στα αντικείμενά σου. Κάνε κλικ στο εικονίδιο **Διάλεξε Ήχο** για να ανοίξεις τη Βιβλιοθήκη Ήχων:
 
-![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
+![Το εικονίδιο "Επίλεξε έναν ήχο" επισημασμένο.](images/choose-a-sound-button.png)
 
-To play a sound, hold your mouse cursor (or your finger, if you are using a tablet) over the **Play** icon:
+Για να παίξεις έναν ήχο, κράτησε πατημένο τον δρομέα του ποντικιού (ή το δάχτυλό σου, αν χρησιμοποιήσεις tablet) πάνω από το εικονίδιο **Αναπαραγωγή**:
 
-!['Play' icons.](images/sound-preview.png)
+![Εικονίδια "Αναπαραγωγή".](images/sound-preview.png)
 
-Click on any sound to add it to your sprite. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+Κάνε κλικ σε ένα οποιοδήποτε αντικείμενο για να το προσθέσεις στο αντικείμενό σου. Θα μεταφερθείς κατευθείαν στην καρτέλα **Ήχοι** και θα μπορείς να δεις τον ήχο που μόλις πρόσθεσες:
 
-![A newly inserted sound in the Sounds tab.](images/new-sound-added.png)
+![Ένας ήχος που εισήχθη πρόσφατα στην καρτέλα Ήχοι.](images/new-sound-added.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+Εάν μεταβείς στην καρτέλα **Κώδικας** και κοιτάξεις το μενού μπλοκ `Ήχος`{:class="block3sound"}, θα μπορείς να επιλέξεις τον νέο ήχο:
 
-![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
+![Το μενού μπλοκ «Ήχος» με τον νέο ήχο διαθέσιμο για χρήση ανάμεσα στα μπλοκ.](images/new-sound-block.png)
 
-**Tip:** You can also add sounds to the **Stage**.
+**Συμβουλή:** Μπορείς επίσης να προσθέσεις ήχους στη **Σκηνή**.
