@@ -2,13 +2,13 @@
 
 ![يتم فتح علامة التبويب الأصوات في محرر سكراتش.](images/sound-tab.png)
 
-تحتوي منصة سكراتش على مكتبة من الأصوات التي يمكنك إضافتها إلى الكائنات المتحركة الخاصة بك. Click on the **Choose a Sound** icon to open the Sound Library:
+تحتوي منصة سكراتش على مكتبة من الأصوات التي يمكنك إضافتها إلى الكائنات المتحركة الخاصة بك. انقر فوق **اختيار الصوت** لرؤية جميع الأصوات.
 
-![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
+![تم تمييز زر "اختيار الصوت".](images/choose-a-sound-button.png)
 
-To play a sound, hold your mouse cursor (or your finger, if you are using a tablet) over the **Play** icon:
+لتشغيل صوت ، ضع مؤشر الماوس (أو إصبعك على الكمبيوتر اللوحي) فوق رمز **تشغيل**.
 
-!['Play' icons.](images/sound-preview.png)
+![أيقونات "تشغيل معاينة الصوت".](images/sound-preview.png)
 
 انقر فوق أي صوت لإضافته إلى كائنك. ستتم إعادتك مباشرة إلى **الأصوات** وستتمكن من رؤية الصوت الذي أضفته للتو.
 
@@ -16,6 +16,6 @@ To play a sound, hold your mouse cursor (or your finger, if you are using a tabl
 
 إذا قمت بالتبديل إلى **التعليمة البرمجية** التبويب ونظرة على `صوت`{: class= "block3sound"} القائمة التعليمات البرمجية، سوف تكون قادرا على تحديد الصوت الجديد:
 
-![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
+![قائمة كتل "الصوت" مع الصوت الجديد المعروض داخل التعليمات البرمجية.](images/new-sound-block.png)
 
 **نصيحة:** يمكنك أيضًا إضافة أصوات إلى **المسرح**.
