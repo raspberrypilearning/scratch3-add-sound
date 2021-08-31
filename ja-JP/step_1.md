@@ -1,21 +1,21 @@
-Select the sprite that you want to have the new sound, then select the **Sounds** tab. Each sprite starts with a default sound:
+新しいサウンドを作成するスプライトを選択してから、**音**タブを選択します。 各スプライトは標準のサウンドで始まります。
 
-![The Sounds tab open in the Scratch editor.](images/sound-tab.png)
+![スクラッチエディタで「サウンド」 タブが開きます。](images/sound-tab.png)
 
-Scratch has a library of sounds that you can add to your sprites. Click on the **Choose a Sound** icon to open the Sound Library:
+Scratchには、スプライトに追加できる音のライブラリがあります。 **音を選ぶ** アイコンをクリックして、サウンドライブラリを開きます
 
-![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
+![「サウンドの選択」アイコンが強調表示されます。](images/choose-a-sound-button.png)
 
-To play a sound, hold your mouse cursor (or your finger, if you are using a tablet) over the **Play** icon:
+**再生** アイコンの上にマウスカーソル（またはタブレットを使用している場合は指）を置きます。
 
-!['Play' icons.](images/sound-preview.png)
+![「再生」アイコン。](images/sound-preview.png)
 
-Click on any sound to add it to your sprite. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+サウンドをクリックして、スプライトに追加します。 **音**タブに直接戻り、追加したばかりのサウンドを確認できます。
 
-![A newly inserted sound in the Sounds tab.](images/new-sound-added.png)
+![「音」 タブに新しく挿入されたサウンド。](images/new-sound-added.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+**コード** タブに切り替えて、 `Sound`{：class = "block3sound"}ブロックメニューを見ると、新しいサウンドを選択できます。
 
-![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
+![「サウンド」ブロックメニュー。ブロック内で使用できる新しいサウンドがあります。](images/new-sound-block.png)
 
-**Tip:** You can also add sounds to the **Stage**.
+**ヒント：** また、あなたは **ステージ**にサウンドを追加することができます。
