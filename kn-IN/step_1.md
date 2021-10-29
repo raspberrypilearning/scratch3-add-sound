@@ -1,21 +1,21 @@
-Select the sprite that you want to have the new sound, then select the **Sounds** tab. Each sprite starts with a default sound:
+ನೀವು ರೆಕಾರ್ಡ್ ಮಾಡಿದ ಹೊಸ ಧ್ವನಿಯನ್ನು ಹೊಂದಲು ಬಯಸುವ ಸ್ಪ್ರೈಟ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ, ನಂತರ **Sounds** ಟ್ಯಾಬ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ. ಪ್ರತಿ ಸ್ಪ್ರೈಟ್ ಡೀಫಾಲ್ಟ್ ಧ್ವನಿಯೊಂದಿಗೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ:
 
-![The Sounds tab open in the Scratch editor.](images/sound-tab.png)
+![Scratch ಎಡಿಟರ್‌ನಲ್ಲಿ ಸೌಂಡ್ಸ್ ಟ್ಯಾಬ್ ತೆರೆಯುತ್ತದೆ.](images/sound-tab.png)
 
-Scratch has a library of sounds that you can add to your sprites. Click on the **Choose a Sound** icon to open the Sound Library:
+ಸ್ಕ್ರಾಚ್ ಶಬ್ದಗಳ ಗ್ರಂಥಾಲಯವನ್ನು ಹೊಂದಿದ್ದು ಅದನ್ನು ನಿಮ್ಮ ಸ್ಪ್ರೈಟ್‌ಗಳಿಗೆ ಸೇರಿಸಬಹುದು. ಸೌಂಡ್ ಲೈಬ್ರರಿಯನ್ನು ತೆರೆಯಲು **Choose a Sound** ಐಕಾನ್ ಆಯ್ಕೆ ಮಾಡಿ:
 
-![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
+!['Choose a sound' ಐಕಾನ್ ಅನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.](images/choose-a-sound-button.png)
 
-To play a sound, hold your mouse cursor (or your finger, if you are using a tablet) over the **Play** icon:
+ಧ್ವನಿಯನ್ನು ಪ್ಲೇ ಮಾಡಲು, ನಿಮ್ಮ ಮೌಸ್ ಕರ್ಸರ್ ಅನ್ನು (ನೀವು ಟ್ಯಾಬ್ಲೆಟ್ ಬಳಸುತ್ತಿದ್ದರೆ ನಿಮ್ಮ ಬೆರಳು) **Play** ಐಕಾನ್ ಮೇಲೆ ಹಿಡಿದುಕೊಳ್ಳಿ:
 
-!['Play' icons.](images/sound-preview.png)
+!['Play' ಐಕಾನ್‌ಗಳು.](images/sound-preview.png)
 
-Click on any sound to add it to your sprite. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+ನಿಮ್ಮ ಸ್ಪ್ರೈಟ್‌ಗೆ ಸೇರಿಸಲು ಯಾವುದೇ ಧ್ವನಿಯ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ. ನಿಮ್ಮನ್ನು ನೇರವಾಗಿ **Sounds** ಟ್ಯಾಬ್‌ಗೆ ಕರೆದೊಯ್ಯಲಾಗುತ್ತದೆ ಮತ್ತು ನೀವು ಈಗ ಸೇರಿಸಿರುವ ಧ್ವನಿಯನ್ನು ನೋಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ:
 
-![A newly inserted sound in the Sounds tab.](images/new-sound-added.png)
+![ಸೌಂಡ್ಸ್ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ಹೊಸದಾಗಿ ಸೇರಿಸಲಾದ ಧ್ವನಿ.](images/new-sound-added.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+ನೀವು **Code** ಟ್ಯಾಬ್‌ಗೆ ಬದಲಾಯಿಸಿ ಮತ್ತು `Sound`{:class="block3sound"} ಬ್ಲಾಕ್ ಮೆನುವನ್ನು ನೋಡಿದರೆ, ನೀವು ರೆಕಾರ್ಡ್ ಮಾಡಿದ ಹೊಸ ಧ್ವನಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ:
 
-![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
+!['Sound' ಬ್ಲಾಕ್ ಮೆನು, ಹೊಸ ಸೌಂಡ್ ಬ್ಲಾಕ್‌ಗಳಲ್ಲಿ ಬಳಸಲು ಲಭ್ಯವಿದೆ.](images/new-sound-block.png)
 
-**Tip:** You can also add sounds to the **Stage**.
+**Tip:** **Stage** ಗೆ ಶಬ್ದಗಳನ್ನು ಕೂಡ ಸೇರಿಸಬಹುದು.
