@@ -1,21 +1,21 @@
-Select the sprite that you want to have the new sound, then select the **Sounds** tab. Cada ator começa com um som padrão:
+Selecione o ator ao qual deseja adicionar o novo som e selecione a aba **Sons**. Cada ator começa com um som padrão:
 
-![The Sounds tab open in the Scratch editor.](images/sound-tab.png)
+![A aba de Sons aberta no editor Scratch.](images/sound-tab.png)
 
-Scratch has a library of sounds that you can add to your sprites. Click on the **Choose a Sound** icon to open the Sound Library:
+O Scratch tem uma biblioteca de sons que você pode adicionar aos seus atores. Clique no ícone **Escolha um Som** para abrir a Biblioteca de Sons:
 
-![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
+![O ícone 'Escolha um Som' destacado.](images/choose-a-sound-button.png)
 
-To play a sound, hold your mouse cursor (or your finger, if you are using a tablet) over the **Play** icon:
+Para reproduzir um som, mantenha o cursor do mouse (ou o dedo, se você estiver usando um tablet) sobre o ícone **Reproduzir**:
 
-!['Play' icons.](images/sound-preview.png)
+![Icones 'Reproduzir'.](images/sound-preview.png)
 
-Click on any sound to add it to your sprite. Você será levado de volta à aba **Sons** e poderá ver que o som foi adicionado:
+Clique em qualquer som para adicioná-lo ao seu ator. Você será levado de volta à aba **Sons** e poderá ver que o som foi adicionado:
 
-![A newly inserted sound in the Sounds tab.](images/new-sound-added.png)
+![Um som recém-inserido na aba de Sons.](images/new-sound-added.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+Se você alterar para a aba **Código** e olhar o menu de blocos `Som`{:class="block3sound"}, poderá selecionar o novo som:
 
-![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
+![O menu de blocos 'Sons', com o novo som disponível para uso nos blocos.](images/new-sound-block.png)
 
-**Tip:** You can also add sounds to the **Stage**.
+**Dica:** Você também pode adicionar sons ao **Palco**.
