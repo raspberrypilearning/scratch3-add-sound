@@ -1,21 +1,21 @@
-Select the sprite that you want to have the new sound, then select the **Sounds** tab. Each sprite starts with a default sound:
+Dewisa'r corlun rwyt ti am roi'r sain newydd iddo, wedyn dewis y tab **Seiniau**. Mae pob corlun yn dechrau gyda sain ddiofyn:
 
-![The Sounds tab open in the Scratch editor.](images/sound-tab.png)
+![Y tab Seiniau ar agor yn y golygydd Scratch.](images/sound-tab.png)
 
-Scratch has a library of sounds that you can add to your sprites. Click on the **Choose a Sound** icon to open the Sound Library:
+Mae gan Scratch lyfrgell o seiniau y galli di eu hychwanegu at dy gorluniau. Clicia ar yr eicon **Dewiswch Sain** i agor y Llyfrgell Corluniau:
 
-![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
+![Yr eicon 'Dewiswch Sain' wedi'i hamlygu.](images/choose-a-sound-button.png)
 
-To play a sound, hold your mouse cursor (or your finger, if you are using a tablet) over the **Play** icon:
+I chwarae sain, dalia gyrchwr dy lygoden (neu dy fys, os wyt ti'n defnyddio tabled) dros yr eicon **Chwarae**:
 
-!['Play' icons.](images/sound-preview.png)
+![Eiconau 'Chwarae'.](images/sound-preview.png)
 
-Click on any sound to add it to your sprite. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+Clicia ar unrhyw sain i'w ychwanegu i dy brosiect. Byddi di'n cael dy dywys yn syth yn ôl i'r tab **Seiniau** a byddi di'n gallu gweld y sain rwyt ti newydd ei ychwanegu:
 
-![A newly inserted sound in the Sounds tab.](images/new-sound-added.png)
+![Sain sydd newydd ei mewnosod yn y tab Seiniau.](images/new-sound-added.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+Os byddi di'n newid i'r tab **Cod** ac yn edrych ar y ddewislen blociau `Sain`{:class="block3sound"}, byddi di'n gallu dewis y sain newydd:
 
-![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
+![Y ddewislen blociau 'Sain', gyda'r sain newydd ar gael i'w defnyddio o fewn blociau.](images/new-sound-block.png)
 
-**Tip:** You can also add sounds to the **Stage**.
+**Awgrym:** Galli di hefyd ychwanegu seiniau at **Llwyfan**.
