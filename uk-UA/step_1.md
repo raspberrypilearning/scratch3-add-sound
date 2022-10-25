@@ -1,21 +1,21 @@
-Select the sprite that you want to have the new sound, then select the **Sounds** tab. Each sprite starts with a default sound:
+Вибери спрайт, якому ти хочеш додати новий звук та перейди на вкладку **Звуки**. Кожен спрайт починається зі стандартного звуку:
 
-![The Sounds tab open in the Scratch editor.](images/sound-tab.png)
+![Вкладка «Звук» відкрита в редакторі Scratch.](images/sound-tab.png)
 
-Scratch has a library of sounds that you can add to your sprites. Click on the **Choose a Sound** icon to open the Sound Library:
+Scratch має власну бібліотеку звуків, які можна додавати до спрайтів. Натисни **Обрати звук**, щоб відкрити Бібліотеку звуків:
 
-![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
+![Виділено іконку «Обрати звук».](images/choose-a-sound-button.png)
 
-To play a sound, hold your mouse cursor (or your finger, if you are using a tablet) over the **Play** icon:
+Щоб відтворити звук, наведи курсор миші (або палець, якщо використовуєш планшет) на іконку **Відтворити**:
 
-!['Play' icons.](images/sound-preview.png)
+![Іконки «Відтворити».](images/sound-preview.png)
 
-Click on any sound to add it to your sprite. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+Клацни на будь-який звук, щоб додати його до спрайта. Ти повернешся на вкладку **Звуки** та зможеш побачити звук, який щойно був створений:
 
-![A newly inserted sound in the Sounds tab.](images/new-sound-added.png)
+![Новий доданий звук на вкладці «Звуки».](images/new-sound-added.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+Якщо ти перейдеш на вкладку **Код** і подивишся на меню блоків `Звук`{:class="block3sound"}, ти зможеш вибрати новий звук:
 
-![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
+![Меню блоків «Звук» з новим звуком, доступним для використання в блоках.](images/new-sound-block.png)
 
-**Tip:** You can also add sounds to the **Stage**.
+**Порада:** до **Сцени** також можна додавати звуки.
