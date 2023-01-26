@@ -1,21 +1,21 @@
-Select the sprite that you want to have the new sound, then select the **Sounds** tab. Each sprite starts with a default sound:
+वह स्प्राइट चुनें जिसे आप नई आवाज़ देना चाहते हैं, फिर **Sounds** टैब चुनें। प्रत्येक स्प्राइट एक डिफ़ॉल्ट आवाज़ के साथ शुरू होता है:
 
-![The Sounds tab open in the Scratch editor.](images/sound-tab.png)
+![स्क्रैच संपादक में <0>Sounds</0> टैब खुलता है।](images/sound-tab.png)
 
-Scratch has a library of sounds that you can add to your sprites. Click on the **Choose a Sound** icon to open the Sound Library:
+स्क्रैच में आवाज़ की एक लाइब्रेरी होती है जिसे आप अपने स्प्राइट्स में जोड़ सकते हैं। आवाज़ लाइब्रेरी खोलने के लिए **Choose a Sound** पर क्लिक करें:
 
-![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
+![<0>Choose a Sound</0> आइकन हाइलाइट किया गया।](images/choose-a-sound-button.png)
 
-To play a sound, hold your mouse cursor (or your finger, if you are using a tablet) over the **Play** icon:
+आवाज़ चलाने के लिए, अपना माउस कर्सर (या अपनी उंगली, यदि आप टैबलेट का उपयोग कर रहे हैं) को **Play** पर रखें:
 
-!['Play' icons.](images/sound-preview.png)
+![<0>Play</0> आइकन।](images/sound-preview.png)
 
-Click on any sound to add it to your sprite. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+किसी भी आवाज़ को अपने स्प्राइट में जोड़ने के लिए उस पर क्लिक करें। आपको सीधे **Sounds** टैब पर ले जाया जाएगा और आप उस आवाज़ को देख पाएंगे जिसे आपने अभी जोड़ा है:
 
-![A newly inserted sound in the Sounds tab.](images/new-sound-added.png)
+![आवाज़ टैब में एक नई आवाज़ डाली गई है।](images/new-sound-added.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+यदि आप **Code** टैब पर स्विच करते हैं और `Sounds`{:class="block3sound"} ब्लॉक मेनू को देखते हैं, तो आप नई आवाज़ को चुन सकते हैं:
 
-![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
+![ब्लॉक के भीतर उपयोग के लिए उपलब्ध नई आवाज़ों के साथ <0>Sound</0> ब्लॉक मेनू।](images/new-sound-block.png)
 
-**Tip:** You can also add sounds to the **Stage**.
+**टिप्पणी:** आप **Stage**में आवाज़ भी जोड़ सकते हैं।
