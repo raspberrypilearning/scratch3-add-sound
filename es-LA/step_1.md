@@ -12,7 +12,7 @@ Para reproducir un sonido, mantén el puntero del ratón (o el dedo, si estás u
 
 Haz clic en cualquier sonido para agregarlo a tu objeto. Volverás directamente a la pestaña **Sonidos** y podrás ver el sonido que acabas de agregar:
 
-![Un sonido recién insertado en la pestaña Sonidos.](images/new-sound-added.png)
+![Un sonido recién ingresado en la pestaña Sonidos.](images/new-sound-added.png)
 
 Si cambias a la pestaña **Código** y miras el menú de bloques `Sonido`{:class="block3sound"}, podrás seleccionar el nuevo sonido:
 
