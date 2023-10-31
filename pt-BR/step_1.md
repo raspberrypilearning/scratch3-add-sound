@@ -2,9 +2,9 @@ Selecione o ator ao qual deseja adicionar o novo som e selecione a aba **Sons**.
 
 ![A aba de Sons aberta no editor Scratch.](images/sound-tab.png)
 
-O Scratch tem uma biblioteca de sons que você pode adicionar aos seus atores. Clique no ícone **Escolha um Som** para abrir a Biblioteca de Sons:
+O Scratch tem uma biblioteca de sons que você pode adicionar aos seus atores. Clique no ícone **Selecionar um Som** para abrir a Biblioteca de Sons:
 
-![O ícone 'Escolha um Som' destacado.](images/choose-a-sound-button.png)
+![O ícone 'Selecionar um Som' destacado.](images/choose-a-sound-button.png)
 
 Para reproduzir um som, mantenha o cursor do mouse (ou o dedo, se você estiver usando um tablet) sobre o ícone **Reproduzir**:
 
