@@ -1,4 +1,4 @@
-Seleziona lo sprite a cui vuoi aggiunger il nuovo suono, poi seleziona la scheda **Suoni**. Ogni sprite viene creato con un suono predefinito:
+Seleziona lo sprite a cui vuoi aggiungere il nuovo suono, poi seleziona la scheda **Suoni**. Ogni sprite viene creato con un suono predefinito:
 
 ![La scheda Suoni si apre nell'editor Scratch.](images/sound-tab.png)
 
