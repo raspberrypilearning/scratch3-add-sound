@@ -1,21 +1,21 @@
-Select the sprite that you want to have the new sound, then select the **Sounds** tab. Each sprite starts with a default sound:
+Wähle die Figur aus, die den neuen Klang haben soll, und wähle dann die Registerkarte **Klänge**. Jede Figur beginnt mit einem Standard-Klang:
 
-![The Sounds tab open in the Scratch editor.](images/sound-tab.png)
+![Die Registerkarte „Klänge“ ist im Scratch-Editor geöffnet.](images/sound-tab.png)
 
-Scratch has a library of sounds that you can add to your sprites. Click on the **Choose a Sound** icon to open the Sound Library:
+Scratch verfügt über eine Bibliothek mit Klängen, die du deinen Figuren hinzufügen kannst. Klicke auf **Klang wählen**, um die Bibliothek aller in Scratch vorhandener Klänge anzuzeigen:
 
-![The 'Choose a Sound' icon highlighted.](images/choose-a-sound-button.png)
+![Das Symbol „Klang auswählen“ ist hervorgehoben.](images/choose-a-sound-button.png)
 
-To play a sound, hold your mouse cursor (or your finger, if you are using a tablet) over the **Play** icon:
+Um einen Klang abzuspielen, halte den Mauszeiger (oder deinen Finger, wenn du ein Tablet verwendest) über das Symbol **Abspielen**:
 
-!['Play' icons.](images/sound-preview.png)
+![„Abspielen“-Symbole.](images/sound-preview.png)
 
-Click on any sound to add it to your sprite. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+Klicke auf einen Klang, um ihn deiner Figur hinzuzufügen. Du wirst direkt zur Registerkarte „**Klänge**“ zurückgeleitet und kannst den Klang sehen, den du gerade hinzugefügt hast:
 
-![A newly inserted sound in the Sounds tab.](images/new-sound-added.png)
+![Ein neu eingefügter Klang im Reiter „Klänge“.](images/new-sound-added.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+Wenn du zur Registerkarte **Skripte** wechselst und dir das Blockmenü `Klang`{:class="block3sound"} ansiehst, kannst du den neuen Klang auswählen:
 
-![The 'Sound' blocks menu, with the new sound available for use within blocks.](images/new-sound-block.png)
+![Das Blockmenü „Klang“ mit dem neuen Klang, der innerhalb von Blöcken verwendet werden kann.](images/new-sound-block.png)
 
-**Tip:** You can also add sounds to the **Stage**.
+**Tipp: ** Du kannst auch der **-Bühne** Klänge hinzufügen.
